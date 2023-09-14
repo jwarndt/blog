@@ -10,7 +10,7 @@ jobs:
       - uses: actions/setup-python@v3
       - name: Install dependencies
         run: |
-          pip install sphinx sphinx_book_theme
+          pip install sphinx ablog pydata_sphinx_theme sphinx_panels
       - name: Sphinx build
         run: |
           sphinx-build doc _build
