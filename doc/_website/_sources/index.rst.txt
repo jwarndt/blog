@@ -2,14 +2,15 @@ Blog
 ====
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :name: mastertoc
+   :caption: Contents
+   :titlesonly:
+   :hidden:
 
-   About
-   Blog
+   About <about.rst>
+   Blog <posts.rst>
 
 .. postlist:: 5
-   :author: jwarndt
    :date: %Y-%m-%d
    :format: {date} - {title}
    :list-style: none

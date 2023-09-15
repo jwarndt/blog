@@ -4,7 +4,6 @@ Favorite Boulders By Grade
 .. post:: September 14, 2023
     :tags: climbing, bouldering
     :category: climbing
-    :author: jwarndt
 
 A list of my favorite boulders that I have climbed.
 
